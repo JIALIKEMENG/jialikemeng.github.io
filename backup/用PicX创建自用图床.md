@@ -27,7 +27,7 @@
 > （2）手动配置
 > 需要逐步操作来完成仓库、分支和目录之间的绑定。详细操作参看[使用文档](https://picx-docs.xpoet.cn)中图文说明。
 > 
-图床配置完成，创建成功之后就可以上传图片了。图片保存在github仓库里，可以进行筛选、删除的工作。
+图床配置完成，创建成功之后就可以上传图片了。上传成功，会自动复制图片链接地址，或者手动在左侧窗口图片下方复制。图片保存在github仓库里，可以进行筛选、删除的工作。
 
 **PicX 图床功能：**
 - 支持 [拖拽](https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E6%8B%96%E6%8B%BD%E5%9B%BE%E7%89%87)、[复制粘贴](https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4)、[选择文件](https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6) 等方式进行选择图片
