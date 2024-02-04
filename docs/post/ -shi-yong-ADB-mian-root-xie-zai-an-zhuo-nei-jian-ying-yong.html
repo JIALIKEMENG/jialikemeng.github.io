@@ -12,8 +12,9 @@
         else if(localStorage.getItem("meek_theme")=="light"){document.getElementsByTagName("html")[0].attributes.getNamedItem("data-color-mode").value="light";}
     </script>
     
-<meta name="description" content="心有山海，静而不争。">
-<title>37uncle</title>
+<meta name="description" content=" 使用ADB免root卸载安卓内建应用">
+<title> 使用ADB免root卸载安卓内建应用</title>
+
 
 </head>
 <style>
@@ -24,136 +25,79 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </style>
 
 <style>
-.avatar {transition: 0.8s;width:64px;height:64px;}
-.avatar:hover{transform: scale(1.15) rotate(360deg);}
-#header h1 a{color:inherit;text-decoration:none;vertical-align: bottom;font-size:40px;font-family:Monaco;margin-left:8px;}
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
 .title-right{display:flex;margin:auto 0 0 auto;}
-.title-right button{margin-right:8px;padding:16px;}
-.title-right .circle{padding: 14px 16px;}
-
-.SideNav{min-width: 360px;}
-.SideNav-icon{margin-right: 16px}
-.SideNav-item .Label{color: #fff;margin-left:8px;}
-.d-flex{min-width:0;}
-.listTitle{overflow:hidden;white-space:nowrap;text-overflow: ellipsis;max-width: 100%;}
-.listLabels{white-space:nowrap;}
-.listLabels object{max-height:16px;max-width:24px;}
-
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
 @media (max-width: 600px) {
     body {padding: 8px;}
-    .avatar {width:40px;height:40px;}
-    .blogTitle{display:none;}
-    #buttonRSS{display:none;}
-    .LabelTime{display:none;}
+    .postTitle{font-size:24px;}
 }
 </style>
 
 
+
+
 <body>
     <div id="header">
-<h1>
-    <img src="https://picshack.net/ib/lD7xUOrCIA.png" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">37uncle</a></h1>
+<h1 class="postTitle"> 使用ADB免root卸载安卓内建应用</h1>
 <div class="title-right">
-    <a href="https://jialikemeng.github.io/tag.html"><button id="buttonSearch" class="btn btn-invisible circle" title="搜索">
-        <svg class="octicon" width="16" height="16" >
-            <path id="pathSearch" fill-rule="evenodd"></path>
+    
+    <a href="https://jialikemeng.github.io"><button id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd" d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
+        </svg>
+    </button></a>
+
+    
+    <a href="https://github.com/JIALIKEMENG/jialikemeng.github.io/issues/7" target="_blank"><button class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
         </svg>
     </button></a>
     
-    <a href="https://jialikemeng.github.io/rss.xml" target="_blank"><button id="buttonRSS" class="btn btn-invisible circle" title="RSS">
-        <svg class="octicon" width="16" height="16" >
-            <path id="pathRSS" fill-rule="evenodd"></path>
-        </svg>
-    </button></a>
-    <button class="btn btn-invisible circle" onclick="modeSwitch()" title="切换主题">
+
+    <button class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
         <svg class="octicon" width="16" height="16" >
             <path id="themeSwitch" fill-rule="evenodd"></path>
         </svg>
     </button>
+
 </div>
 </div>
     <div id="content">
-<div style="margin-bottom: 16px;">心有山海，静而不争。</div>
-<nav class="SideNav border">
-<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/%20-shi-yong-ADB-mian-root-xie-zai-an-zhuo-nei-jian-ying-yong.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle"> 使用ADB免root卸载安卓内建应用</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#BC5F71"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#应用">应用</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-02-04</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/shi-yong-Canta-mian-root-xie-zai-xie-zai-an-zhuo-nei-jian-ying-yong.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">使用Canta免root卸载卸载安卓内建应用</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#BC5F71"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#应用">应用</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-02-04</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/yong-Microsoft%20Sway-chuang-jian-tu-chuang-huo-ke-fen-xiang-wen-dang.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">用Microsoft Sway创建图床或可分享文档</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#BC5F71"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#应用">应用</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-02-04</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/yong-Windows%20PowerShell-xie-zai-win10-nei-jian-ying-yong.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">用Windows PowerShell卸载win10内建应用</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#D743CA"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#技巧">技巧</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-02-04</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/yong-PicX-chuang-jian-zi-yong-tu-chuang.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">用PicX创建自用图床</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#BC5F71"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#应用">应用</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-02-01</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/yong-Gmeek-chuang-jian-qing-liang-ji-ge-ren-bo-ke.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">用Gmeek创建轻量级个人博客</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#BC5F71"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#应用">应用</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-01-30</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/dong-yi-shen-%EF%BC%8C-chun-jiang-zhi-%E3%80%82.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">冬已深，春将至。</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#A17A2F"><object><a style="color:#fff" href="https://jialikemeng.github.io/tag.html#日常">日常</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-01-29</span>
-    </div>
-</a>
-</nav>
+<div class="markdown-body" id="postBody"><p><strong>使用方法：</strong></p>
+<ul>
+<li>对您的数据进行适当的备份；</li>
+<li>在智能手机上启用开发人员选项；</li>
+<li>从开发人员面板打开USB调试；</li>
+<li>在设置中，断开与任何 OEM 帐户的连接（删除 OEM 帐户包时，它可能会将你锁定在锁屏界面上，因为手机无法再关联你的身份）；</li>
+<li>安装 ADB：</li>
+</ul>
+<blockquote>
+<ol>
+<li>下载<a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip" rel="nofollow">Android平台工具</a>或<a href="https://www.lanzv.com/igjwS1nd1xmj" rel="nofollow">蓝奏云下载</a>并将其解压缩到某个地方；</li>
+<li>将 android 平台工具<a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/" rel="nofollow">添加到您的 PATH</a> 中，或者确保从同一目录启动 UAD-ng；</li>
+<li>为您的设备安装 <a href="https://developer.android.com/studio/run/oem-usb#Drivers" rel="nofollow">USB 驱动程序</a>。三星手机在安装PC端Samsung Dex时自动安装了驱动，因此无需下载；</li>
+<li>检查您的设备是否被检测到： adb devices</li>
+</ol>
+</blockquote>
+<ul>
+<li>在<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/releases">此处</a>下载适用于您的操作系统的最新版本的 UAD-ng。仅当默认版本（带有 Vulkan 后端）未启动时，才使用该版本。</li>
+</ul>
+<p>注意：<br>
+中国手机用户可能需要使用AOSP列表来删除一些库存应用程序，因为这些中国制造商（尤其是小米和华为）一直在使用AOSP软件包的名称用于他们自己的（修改和闭源）应用程序。<br>
+重要提示：<br>
+每当您的 OEM 向您的手机推送更新时，您都必须运行此软件，因为某些未卸载的系统应用程序可能会重新安装。</p>
+<p><a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation">Windows ADB客户端方法</a><br>
+<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/FAQ">常见问题解答</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;">转载文章请注明出处，谢谢!</div>
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
 </div>
     <div id="footer">Copyright © <span id="year"></span><a href="https://jialikemeng.github.io"> 37uncle </a>
 <p>
@@ -206,19 +150,45 @@ console.log("\n %c Gmeek main %c https://github.com/Meekdai/Gmeek \n\n", "color:
 </script>
 
 <script>
-document.getElementById("pathSearch").setAttribute("d",IconList["search"]);
-document.getElementById("pathRSS").setAttribute("d",IconList["rss"]);
-iconTOP=document.getElementsByClassName("svgTop1");
-iconPost=document.getElementsByClassName("svgTop0");
-for(var i=0;i<iconTOP.length;i++){
-    iconTOP[i].setAttribute("d",IconList["upload"]);
-    iconTOP[i].parentNode.style.color="red";
-}
-for(var i=0;i<iconPost.length;i++){
-    iconPost[i].setAttribute("d",IconList["post"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","JIALIKEMENG/jialikemeng.github.io");
+    script.setAttribute("issue-term","title");
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else{script.setAttribute("theme","github-light");}
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
 }
 
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
 
 </script>
+
+
+
 
 </html>
