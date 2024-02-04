@@ -16,5 +16,5 @@
 重要提示：
 每当您的 OEM 向您的手机推送更新时，您都必须运行此软件，因为某些未卸载的系统应用程序可能会重新安装。
 
-[Windows ADB客户端方法](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+[Windows ADB客户端使用方法](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 [常见问题解答](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/FAQ)
