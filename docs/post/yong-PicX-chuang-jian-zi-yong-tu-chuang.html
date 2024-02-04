@@ -83,43 +83,33 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <li>打开<a href="https://picx.xpoet.cn/" rel="nofollow">图床神器</a>，进行登录（先查看登陆教程再操作）；</li>
 </ul>
 <blockquote>
-<p>有两种登陆方式：<br>
-GitHub OAuth 授权登录：<br>
+<p>有两种登陆方式：</p>
+<ol>
+<li>GitHub OAuth 授权登录：<br>
 （1）安装 PicX GitHub APP<br>
 使用 GitHub OAuth 授权登录必须先安装 PicX GitHub APP，否则没有操作权限。点击界面中间的安装 PicX GitHub APP 立即跳转到 安装页面，安装成功后，会自动跳转回 PicX 登录页，并进行是否授权登录的询问。<br>
 （2）进行 GitHub OAuth 授权登录<br>
-PicX GitHub APP 安装成功之后，在消息提示框点击确定或者手动点击 GitHub OAuth 授权登录按钮，进行授权登录。授权登录成功之后，PicX 会自动完成该账号下的图床配置。<br>
-填写 GitHub Token 登录：<br>
+PicX GitHub APP 安装成功之后，在消息提示框点击确定或者手动点击 GitHub OAuth 授权登录按钮，进行授权登录。授权登录成功之后，PicX 会自动完成该账号下的图床配置。</li>
+<li>填写 GitHub Token 登录：<br>
 （1）创建一个带有 repo 权限的 GitHub Token. 点击 <a href="https://github.com/settings/tokens/new">新建GitHub Token</a> 快速新建 GitHub Token：输入令牌名字，选择无有效期，勾选repo，最后点击 Generate token 按钮，即可生成 GitHub Token。新生成的 Token 只会显示一次，请妥善保存，如有遗失，重新生成即可。<br>
-（2）绑定 GitHub Token. 点击填写 GitHub Token 登录，通过填写 GitHub Token 登录获取到你的 GitHub 账号信息、Public 仓库信息等数据，完成 Token 绑定。</p>
+（2）绑定 GitHub Token. 点击填写 GitHub Token 登录，通过填写 GitHub Token 登录获取到你的 GitHub 账号信息、Public 仓库信息等数据，完成 Token 绑定。</li>
+</ol>
 </blockquote>
 <ul>
 <li>进行图床配置；</li>
 </ul>
 <blockquote>
-<p>有两种配置方法：<br>
-（1）自动配置<br>
-在登录成功之后，点击界面一键自动配置，自动创建 GitHub 仓库，并完成仓库、分支和目录之间的绑定。首次使用 PicX，强烈推荐使用一键自动配置，极其便捷。<br>
-（2）手动配置<br>
-需要逐步操作来完成仓库、分支和目录之间的绑定。详细操作参看<a href="https://picx-docs.xpoet.cn" rel="nofollow">使用文档</a>中图文说明。</p>
+<p>有两种配置方法：</p>
+<ol>
+<li>自动配置<br>
+在登录成功之后，点击界面一键自动配置，自动创建 GitHub 仓库，并完成仓库、分支和目录之间的绑定。首次使用 PicX，强烈推荐使用一键自动配置，极其便捷。</li>
+<li>手动配置<br>
+需要逐步操作来完成仓库、分支和目录之间的绑定。详细操作参看<a href="https://picx-docs.xpoet.cn" rel="nofollow">使用文档</a>中图文说明。</li>
+</ol>
 </blockquote>
 <p>图床配置完成，创建成功之后就可以上传图片了。上传成功，会自动复制图片链接地址，或者手动在左侧窗口图片下方复制。图片保存在github仓库里，可以进行筛选、删除的工作。</p>
-<p><strong>PicX 图床功能：</strong></p>
-<ul>
-<li>支持 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E6%8B%96%E6%8B%BD%E5%9B%BE%E7%89%87" rel="nofollow">拖拽</a>、<a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4" rel="nofollow">复制粘贴</a>、<a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6" rel="nofollow">选择文件</a> 等方式进行选择图片</li>
-<li>支持上传时对图片 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E9%87%8D%E5%91%BD%E5%90%8D" rel="nofollow">重命名</a>、<a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E5%93%88%E5%B8%8C%E5%8C%96" rel="nofollow">哈希化</a>（确保图片名唯一）和 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E5%89%8D%E7%BC%80%E5%91%BD%E5%90%8D" rel="nofollow">设置命名前缀</a></li>
-<li>支持 批量上传图片、<a href="https://picx-docs.xpoet.cn/usage-guide/management.html#%E5%88%A0%E9%99%A4-%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4" rel="nofollow">批量删除图片</a> 和 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/management.html#%E6%89%B9%E9%87%8F%E5%A4%8D%E5%88%B6%E5%A4%9A%E5%BC%A0%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5" rel="nofollow">批量复制图片链接</a></li>
-<li>支持图床 多级目录 管理 （创建多级目录 / 查看多级目录下图片）</li>
-<li>支持 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/upload.html#%E5%A4%8D%E5%88%B6%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5" rel="nofollow">一键复制</a> 图片链接和 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/settings.html#%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE" rel="nofollow">自由转换 Markdown / HTML / BBCode 格式</a></li>
-<li>内置 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/settings.html#%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E8%A7%84%E5%88%99%E9%85%8D%E7%BD%AE" rel="nofollow">多种图片链接规则</a>（GitHub、GitHub Pages、jsDelivr、Statically 等）</li>
-<li>支持 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/settings.html#%E9%85%8D%E7%BD%AE%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E8%A7%84%E5%88%99" rel="nofollow">自定义配置图片链接规则</a></li>
-<li>支持 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/settings.html#%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E8%AE%BE%E7%BD%AE" rel="nofollow">图片压缩</a> (内置高效压缩算法，可配置在上传前自动压缩)</li>
-<li>支持配置 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/settings.html#%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0%E8%AE%BE%E7%BD%AE" rel="nofollow">图片水印</a></li>
-<li>支持 PWA</li>
-<li>支持 <a href="https://picx-docs.xpoet.cn/docs/usage-guide/settings.html#%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE" rel="nofollow">暗夜模式</a> (自动切换 / 自由切换)</li>
-<li>i18n（中文简体、中文繁体、英文）</li>
-<li>工具箱（<a href="https://picx-docs.xpoet.cn/docs/usage-guide/toolbox.html#%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9" rel="nofollow">图片压缩</a>、<a href="https://picx-docs.xpoet.cn/docs/usage-guide/toolbox.html#%E5%9B%BE%E7%89%87%E8%BD%AC-base64" rel="nofollow">图片转 Base64</a>、<a href="https://picx-docs.xpoet.cn/docs/usage-guide/toolbox.html#%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0" rel="nofollow">图片水印</a>）</li>
-</ul>
+<p>示例图片1（JsDelivn）：<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61b84783c4ba7ee6fd3552d83c7d0ec69a76733697007cbbb3b0159c29713b0f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4a49414c494b454d454e472f706963782d696d616765732d686f7374696e67406d61737465722f3630352e366769716a656b3961666f302e77656270"><img src="https://camo.githubusercontent.com/61b84783c4ba7ee6fd3552d83c7d0ec69a76733697007cbbb3b0159c29713b0f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4a49414c494b454d454e472f706963782d696d616765732d686f7374696e67406d61737465722f3630352e366769716a656b3961666f302e77656270" alt="605" data-canonical-src="https://cdn.jsdelivr.net/gh/JIALIKEMENG/picx-images-hosting@master/605.6giqjek9afo0.webp" style="max-width: 100%;"></a><br>
+示例图片2（ChinaJsDelivn）：<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7202b4a526aca0856d018675d0568df7172e718ebcba4b4c4b4342cf3c1304a1/68747470733a2f2f6a73642e63646e2e7a7a6b6f2e636e2f67682f4a49414c494b454d454e472f706963782d696d616765732d686f7374696e67406d61737465722f3630372e32396b6c7630726b6b3676342e77656270"><img src="https://camo.githubusercontent.com/7202b4a526aca0856d018675d0568df7172e718ebcba4b4c4b4342cf3c1304a1/68747470733a2f2f6a73642e63646e2e7a7a6b6f2e636e2f67682f4a49414c494b454d454e472f706963782d696d616765732d686f7374696e67406d61737465722f3630372e32396b6c7630726b6b3676342e77656270" alt="607" data-canonical-src="https://jsd.cdn.zzko.cn/gh/JIALIKEMENG/picx-images-hosting@master/607.29klv0rkk6v4.webp" style="max-width: 100%;"></a></p>
 <p>关于PicX 图床的详细部署及使用说明请查看<a href="https://github.com/XPoet/picx">仓库</a>和<a href="https://picx-docs.xpoet.cn" rel="nofollow">使用文档</a>。</p></div>
 <div style="font-size:small;margin-top:8px;float:right;">转载文章请注明出处，谢谢!</div>
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
