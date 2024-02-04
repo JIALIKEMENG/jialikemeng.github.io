@@ -1,9 +1,9 @@
 对于⽆⽤的内建程式，保留在电脑内既占空间⼜毫⽆⽤途，例如酷我⾳乐、市集、Xbox 这些很少⼈⽤的到，但由于是“内建”，所以不能直接解除安装。
 
-其实内建软件也有卸载的⽅法，就是透过「Windows PowerShell」来卸载，⾸先利⽤搜寻器找出 Windows PowerShell ，之后按右键并选按“以系统管理员⾝份执⾏”。 最后便会打开 Windows PowerShell 的视窗，然后在视窗中输入指令并按下 Enter ，便会立刻移除指令代表的应⽤软件，以 Xbox 为例，就要输入：
+其实内建软件也有卸载的⽅法，就是透过“Windows PowerShell”来卸载，⾸先利⽤搜索工具找出 Windows PowerShell ，之后按右键并选按“以系统管理员⾝份执⾏”。 最后便会打开 Windows PowerShell 的视窗，然后在视窗中输入指令并按下 Enter ，便会立刻移除指令代表的应⽤软件，以 Xbox 为例，就要输入：
 
 Get-AppxPackage *xboxapp* | Remove-AppxPackage
-当按下「Enter」后，应⽤软件便会⾃动卸载。
+当按下 Enter 后，应⽤软件便会⾃动卸载。
 
 **指令列表：**
 
