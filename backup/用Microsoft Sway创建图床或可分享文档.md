@@ -8,6 +8,7 @@ Sway微软旗下提供免费文稿分享的网站，是一个易于使用的数�
 
 整个文章可以共享。但图片会被压缩为1080p的.jfif格式文件。
 
-示例（文档分享）：[https://sway.cloud.microsoft/PzGEi97ELggjX5kS?ref=Link](https://sway.cloud.microsoft/PzGEi97ELggjX5kS?ref=Link)
+示例：[文档分享](https://sway.cloud.microsoft/PzGEi97ELggjX5kS?ref=Link)
 
 示例（图片分享）：[https://sway.cloud.microsoft/s/PzGEi97ELggjX5kS/images/cCXV86hOfPAe15](https://sway.cloud.microsoft/s/PzGEi97ELggjX5kS/images/cCXV86hOfPAe15)
+! [图片分享] (https://sway.cloud.microsoft/s/PzGEi97ELggjX5kS/images/cCXV86hOfPAe15)
