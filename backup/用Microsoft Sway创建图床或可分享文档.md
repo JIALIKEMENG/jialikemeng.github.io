@@ -11,4 +11,3 @@ Sway微软旗下提供免费文稿分享的网站，是一个易于使用的数�
 示例：[文档分享](https://sway.cloud.microsoft/PzGEi97ELggjX5kS?ref=Link)
 
 示例（图片分享）：[https://sway.cloud.microsoft/s/PzGEi97ELggjX5kS/images/cCXV86hOfPAe15](https://sway.cloud.microsoft/s/PzGEi97ELggjX5kS/images/cCXV86hOfPAe15)
-! [图片分享] (https://sway.cloud.microsoft/s/PzGEi97ELggjX5kS/images/cCXV86hOfPAe15)
