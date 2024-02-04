@@ -29,7 +29,6 @@
 > 
 图床配置完成，创建成功之后就可以上传图片了。上传成功，会自动复制图片链接地址，或者手动在左侧窗口图片下方复制。图片保存在github仓库里，可以进行筛选、删除的工作。
 
-示例图片1（JsDelivn）：![605](https://cdn.jsdelivr.net/gh/JIALIKEMENG/picx-images-hosting@master/605.6giqjek9afo0.webp)
-示例图片2（ChinaJsDelivn）：![607](https://jsd.cdn.zzko.cn/gh/JIALIKEMENG/picx-images-hosting@master/607.29klv0rkk6v4.webp)
+示例图片（JsDelivn）：![605](https://cdn.jsdelivr.net/gh/JIALIKEMENG/picx-images-hosting@master/605.6giqjek9afo0.webp)
 
 关于PicX 图床的详细部署及使用说明请查看[仓库](https://github.com/XPoet/picx)和[使用文档](https://picx-docs.xpoet.cn)。
