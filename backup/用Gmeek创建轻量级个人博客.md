@@ -16,7 +16,7 @@ Gmeek 特性：
 
 至此，你的博客已经顺利创建并有了一篇博客文字。可以直接通过创建仓库时的仓库名”github用户名.github.io“来访问了。
 
-示例：[https://jialikemeng.github.io/](https://jialikemeng.github.io/)
+[示例博客](https://jialikemeng.github.io/)
 
 详细创建方法及存在问题处理参看：[Gmeek快速上手
 ](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
