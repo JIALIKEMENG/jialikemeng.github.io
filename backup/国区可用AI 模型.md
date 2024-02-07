@@ -22,4 +22,7 @@
 8. [智谱清言 ChatGLM](https://chatglm.cn/)
 需登录，免费。除过问答，有文案、绘画、长文档解读/总结/翻译、数据分析等多个智能体可用，亦可自建智能体。
 
+9. [Gemini Chat Pro](https://gemini-pro.chat/#/)
+无需登录，免费。据说是谷歌的AIGemini模型。功能上和其他类似。有多个面具可用。
+
 更多AI应用参看[OpeniAI时代](https://openi.cn/)。
