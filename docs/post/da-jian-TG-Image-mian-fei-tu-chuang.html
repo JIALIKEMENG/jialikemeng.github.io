@@ -132,13 +132,13 @@ Cloudflare将自动在域名DNS中添加一个CNAME解析记录，将自定义�
 访问项目域名，在域名后加/admin 回车，输入刚配置的账号密码即可进入后台，可以对图片进行管理，可以进行白名单，黑名单和删除操作。<br>
 后台图片状态信息字段含义：</p>
 </blockquote>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> ListType表示图片当前是否在黑白名单当中。</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> None则表示既不在黑名单中也不在白名单中。</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> White表示在在白名单中。</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Block表示在黑名单中。</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> TimeStamp图片首次加载的时间戳。</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Label图片审查的结果。</li>
+<ul>
+<li>ListType表示图片当前是否在黑白名单当中。</li>
+<li>None则表示既不在黑名单中也不在白名单中。</li>
+<li>White表示在在白名单中。</li>
+<li>Block表示在黑名单中。</li>
+<li>TimeStamp图片首次加载的时间戳。</li>
+<li>Label图片审查的结果。</li>
 </ul>
 <ol start="2">
 <li>开启内容审查。</li>
@@ -154,7 +154,7 @@ Cloudflare将自动在域名DNS中添加一个CNAME解析记录，将自定义�
 回到Github中，在Telegraph-Image项目页面上点击Sync fork-&gt;Update branch即可。</li>
 </ol>
 <p><strong>注意事项</strong></p>
-<ol>
+<ul>
 <li>每天最多100,000次免费读取操作，图片每加载一次都会占用该额度。建议在Cloudflare上开启域名缓存设置，这样仅当缓存未命中时才会占用该额度。如果额度用完了，则黑白名单等功能可能会失效。</li>
 <li>每天最多1,000次免费删除操作，每有一条图片记录都会占用该额度，超过了将无法删除图片记录。</li>
 <li>每天最多1,000次免费列出操作，每打开或刷新一次后台/admin都会占用该额度，超过了将无法进行后台图片管理。</li>
@@ -163,7 +163,7 @@ Cloudflare将自动在域名DNS中添加一个CNAME解析记录，将自定义�
 <li>上传的单个文件最大支持5MB。</li>
 <li>上传图片之后后台却看不到图片，你需要在上传图片后复制图片URL进行一次访问，即可在后台看到图片信息。</li>
 <li>每次修改部署项目的KV、环境变量等，记得要重新部署，否则不会生效。</li>
-</ol>
+</ul>
 <p>参看<a href="https://github.com/cf-pages/Telegraph-Image">项目页</a>及<a href="https://mp.weixin.qq.com/s/gVl1yojC07B81_iQaxxZWw" rel="nofollow">介绍页1</a>和<a href="https://%5Bmp.weixin.qq.com/s/hbpCxE3dYZY1sgt2H3JffA%5D(https://mp.weixin.qq.com/s/hbpCxE3dYZY1sgt2H3JffA)" rel="nofollow">介绍页2</a>。</p></div>
 <div style="font-size:small;margin-top:8px;float:right;">转载文章请注明出处，谢谢!</div>
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
