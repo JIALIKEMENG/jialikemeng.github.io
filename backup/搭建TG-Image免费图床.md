@@ -40,19 +40,19 @@ Telegraph-Image 图床，是一款开源的图床系统，旨在为博客或网�
 > 打开项目部署详细信息，在管理部署那里选择重新部署点击，等待重新部署完成即可。
 > 访问项目域名，在域名后加/admin 回车，输入刚配置的账号密码即可进入后台，可以对图片进行管理，可以进行白名单，黑名单和删除操作。
 > 后台图片状态信息字段含义：
-- ListType表示图片当前是否在黑白名单当中。
-- None则表示既不在黑名单中也不在白名单中。
-- White表示在在白名单中。
-- Block表示在黑名单中。
-- TimeStamp图片首次加载的时间戳。
-- Label图片审查的结果。
+> - ListType表示图片当前是否在黑白名单当中。
+> - None则表示既不在黑名单中也不在白名单中。
+> - White表示在在白名单中。
+> - Block表示在黑名单中。
+> - TimeStamp图片首次加载的时间戳。
+> - Label图片审查的结果。
 2. 开启内容审查。
 > 打开[ModerateContent](moderatecontent)网站，点击SIGN UP，输入邮箱，点击SUBMIT，界面上就直接为你生成API Key，复制并保存下来。
 > 在项目的设置->环境界面中，添加一个环境变量，名称为：ModerateContentApiKey，值就是上面获得的API Key。
 > 重新部署系统。
 3. 更新图床系统。
-如果Telegraph-Image项目更新了，需要添加新的KV命名空间或环境变量，则先在Cloudflare的项目中配置好。
-回到Github中，在Telegraph-Image项目页面上点击Sync fork->Update branch即可。
+> 如果Telegraph-Image项目更新了，需要添加新的KV命名空间或环境变量，则先在Cloudflare的项目中配置好。
+> 回到Github中，在Telegraph-Image项目页面上点击Sync fork->Update branch即可。
 
 **注意事项**  
 - 每天最多100,000次免费读取操作，图片每加载一次都会占用该额度。建议在Cloudflare上开启域名缓存设置，这样仅当缓存未命中时才会占用该额度。如果额度用完了，则黑白名单等功能可能会失效。
