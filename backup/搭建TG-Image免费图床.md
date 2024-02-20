@@ -65,3 +65,9 @@ Telegraph-Image 图床，是一款开源的图床系统，旨在为博客或网�
 - 每次修改部署项目的KV、环境变量等，记得要重新部署，否则不会生效。
 
 参看[项目页](https://github.com/cf-pages/Telegraph-Image)及[介绍页1](https://mp.weixin.qq.com/s/gVl1yojC07B81_iQaxxZWw)和[介绍页2](https://[mp.weixin.qq.com/s/hbpCxE3dYZY1sgt2H3JffA](https://mp.weixin.qq.com/s/hbpCxE3dYZY1sgt2H3JffA))。
+
+其他基于Telegraph+Cloudflare的图床项目：
+[telegraph-Image](https://github.com/x-dr/telegraph-Image)，[演示图床](https://img.131213.xyz/)；
+[tgState](https://github.com/csznet/tgState)，[演示图床1](https://tgstate.vercel.app/)，[演示图床2](https://tgstate.ikun123.com/)；
+[Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting)，[演示图床](https://missuo.ru/)；
+[Cloudflare Image Hosting](https://github.com/ifyour/cf-image-hosting)，[演示图床](https://images.mingming.dev/)。
