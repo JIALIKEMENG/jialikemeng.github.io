@@ -8,7 +8,7 @@ Gmeek 特性：
 
 创建方法：
 > - **注册**申请github账户并**登录**；
-> - 点击[通过Gmeek模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai)，仓库名称命名为“github用户名.github.io"（测试不可自定义），点击**新建仓库**；
+> - 点击[通过Gmeek模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai)，仓库名称命名为“github用户名.github.io"（用户名这里如果自定义后会成为用户名/自定义.github.io格式），点击**新建仓库**；
 > - 在你创建好的仓库页面，点击设置，**修改**pages—Build and deployment**来源**为Github Actions；
 > - 点击代码，按需**修改**config.json**配置文件**，**保存**修改。config.json配置文件可参考[这里](https://github.com/Meekdai/meekdai.github.io/blob/main/config.json)；
 > - 修改配置文件后，点击操作，选择build Gmeek，运行工作流程进行**全局生成**：
