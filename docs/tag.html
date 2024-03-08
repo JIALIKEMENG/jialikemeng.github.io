@@ -49,7 +49,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<span class="tagTitle"></span>
+<span class="tagTitle"><span>Loading</span><span class="AnimatedEllipsis"></span></span>
 <div class="title-right">
     <div class="subnav-search">
         <input type="search" class="form-control subnav-search-input float-left" aria-label="Search site" value="" style="height:32px;">
@@ -72,7 +72,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
     <div id="content">
 <div id="tagLable" style="margin-bottom: 16px;"></div>
-<nav class="SideNav border"></nav>
+<nav class="SideNav"></nav>
 <div class="notFind" style="display:none;font-size:24px;margin:8px;">Not Find</div>
 </div>
     <div id="footer">Copyright © <span id="year"></span><a href="https://jialikemeng.github.io"> 37uncle </a>
@@ -144,6 +144,7 @@ request.onload=function(){
 
 function showList(){
     let SideNav=document.getElementsByClassName("SideNav")[0];
+    SideNav.setAttribute("class","SideNav border");
     let tagLable=document.getElementById("tagLable");
 
     if(tagList.length==0){
@@ -219,7 +220,7 @@ function setClassDisplay(lable){
     let lists = document.getElementsByClassName("lists");
     let tagTitle = document.getElementsByClassName("tagTitle")[0];
     tagTitle.innerHTML="Tag #"+lable;
-    document.title=lable+" - Meekdai";
+    document.title=lable+" - 37uncle";
     document.getElementsByClassName("subnav-search-input")[0].value='';
     if(lable=="All"){
         for(let i = 0; i < lists.length; i++){lists[i].style.display='block';}
@@ -247,8 +248,8 @@ function searchShow(){
     let tagTitle = document.getElementsByClassName("tagTitle")[0];
     let searchInput = document.getElementsByClassName("subnav-search-input")[0].value;
     tagTitle.innerHTML="Search #"+searchInput;
-    if(searchInput==''){document.title="Search - Meekdai";}
-    else{document.title=searchInput+" - Meekdai";}
+    if(searchInput==''){document.title="Search - 37uncle";}
+    else{document.title=searchInput+" - 37uncle";}
     let a=0;
     window.location.hash="#"+(searchInput);
     for(let i = 0; i < lists.length; i++){
