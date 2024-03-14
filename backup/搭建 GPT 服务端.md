@@ -1,4 +1,4 @@
-使用 ChatGPT-Next-Web 搭建的 GPT 服务端请看[示例](https://chat-gpt-next-web-9p9k.vercel.app/#/chat)。
+使用 ChatGPT-Next-Web 搭建的 GPT 服务端请看[示例](https://chat-gpt-next-web-9p9k.vercel.app/#/chat)【被墙？】。
 
 **搭建步骤：**
 - 打开 ChatGPT-Next-Web [项目页面](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)， 登录Github 账号。
