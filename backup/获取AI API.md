@@ -16,8 +16,9 @@
 参看[如何申请调用ChatGPT API 以及key秘钥获取方法](https://zhuanlan.zhihu.com/p/651877443)。
 
 ###  获取ChatGPT API Key（非官方）
-1. 打开[头顶冒火页面](https://burn.hair/register?aff=Fiuw)，使用 GitHub 账户登录。
-2. 登录成功之后, 可以点击令牌查看自己账户系统免费的余额（通过TG/签到/邀请/购买等获取余额）。
-3. 点击令牌，添加新的令牌，输入名称，设置期限、额度，点击提交。
-4. 提交成功之后，返回上级页面，令牌下可以复制 API Key 调用。
+- 打开[头顶冒火页面](https://burn.hair/register?aff=Fiuw)，使用 GitHub 账户登录。
+- 登录成功之后, 可以点击令牌查看自己账户系统免费的余额（通过TG/签到/邀请/购买等获取余额）。
+- 点击令牌，添加新的令牌，输入名称，设置期限、额度，点击提交。
+- 提交成功之后，返回上级页面，令牌下可以复制 API Key 调用。
+
 参看[ChatGPT 使用教程以及免费接口(支持OpenAI所有模型)](https://t66y.com/htm_data/2403/7/6229592.html)。
