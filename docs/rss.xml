@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>37uncle</title><link>https://jialikemeng.github.io</link><description>心有山海，静而不争。</description><copyright>37uncle</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://telegraph-image-yht.pages.dev/file/1cf1bc17a8b651ba88fae.png</url><title>avatar</title><link>https://jialikemeng.github.io</link></image><lastBuildDate>Thu, 04 Apr 2024 01:44:49 +0000</lastBuildDate><managingEditor>37uncle</managingEditor><ttl>60</ttl><webMaster>37uncle</webMaster><item><title>免费临时邮箱汇总24-4</title><link>https://jialikemeng.github.io/post/mian-fei-lin-shi-you-xiang-hui-zong-24-4.html</link><description>[https://email.ml/](https://email.ml/) （基于开源项目和 CF 搭建，提供三个后缀 email.ml hele.win uxin.tech ）；&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>37uncle</title><link>https://jialikemeng.github.io</link><description>心有山海，静而不争。</description><copyright>37uncle</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://telegraph-image-yht.pages.dev/file/1cf1bc17a8b651ba88fae.png</url><title>avatar</title><link>https://jialikemeng.github.io</link></image><lastBuildDate>Thu, 04 Apr 2024 02:04:46 +0000</lastBuildDate><managingEditor>37uncle</managingEditor><ttl>60</ttl><webMaster>37uncle</webMaster><item><title>Cloudflare Workers 优秀项目集景</title><link>https://jialikemeng.github.io/post/Cloudflare%20Workers%20-you-xiu-xiang-mu-ji-jing.html</link><description>### 节点：&#13;
+ [3K 大佬改写的项目](https://github.com/3Kmfi6HP/EDtunnel)&#13;
+ [Zizifn 大佬原创项目](https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js)&#13;
+ [部署自定义订阅服务](https://github.com/mjjonone/sub-worker/blob/main/_worker.js)&#13;
+&#13;
+### 建站：&#13;
+**通过 Workers 搭建博客**&#13;
+方案一：利用 worker 的 KV 作为数据库搭建博客：[源码](https://github.com/gdtool/cloudflare-workers-blog)，[安装教程](https://cfblog.661212.xyz/article/000003/cfblog-plus.html)；&#13;
+方案二：利用 workers+github 搭建博客系统:[源码](https://github.com/kasuganosoras/cloudflare-worker-blog)。</description><guid isPermaLink="true">https://jialikemeng.github.io/post/Cloudflare%20Workers%20-you-xiu-xiang-mu-ji-jing.html</guid><pubDate>Thu, 04 Apr 2024 02:04:12 +0000</pubDate></item><item><title>免费临时邮箱汇总24-4</title><link>https://jialikemeng.github.io/post/mian-fei-lin-shi-you-xiang-hui-zong-24-4.html</link><description>[https://email.ml/](https://email.ml/) （基于开源项目和 CF 搭建，提供三个后缀 email.ml hele.win uxin.tech ）；&#13;
 &#13;
 [https://smail.pw/](https://smail.pw/) （基于开源项目和 CF 搭建的临时邮箱，后缀 @smail.com）；&#13;
 &#13;
