@@ -7,7 +7,7 @@
 搭建方法：
 - 注册 [Github](https://github.com/) 账号和 [Vercel](https://vercel.com/dashboard) 账号备用；
 - GitHub配置：
-> 在GitHub上Fork [FRE123-nav](https://github.com/fre123-com/fre123-nav) 项目；
+> 在[Github](https://github.com/) 上Fork [FRE123-nav](https://github.com/fre123-com/fre123-nav) 项目；
 > 编辑 Fork 后项目根目录下 config 下相关配置文件，对 config/nav.json（导航列表数据配置文件）和 config/website.json（导航页面基本信息配置）进行修改，完成个性化数据配置。具体配置参看[配置说明](https://github.com/fre123-com/fre123-nav/blob/main/.files/docs/config.md)。
 - Vercel搭建：
 > 进入[Vercel](https://vercel.com/dashboard)官网，选择右上角 Add New Project，选择刚刚 Fork 的项目；
