@@ -7,13 +7,13 @@
 - 点击左边菜单里的 Get API key，然后在右边点击 API keys 下方的 Create API key in new project。出现 API key generated ，Google Gemini API 生成成功，即可 copy 使用。
 参看[Google Gemini API快速上手(附申请步骤)](https://blog.csdn.net/zwqjoy/article/details/135058668)
 
-###  获取ChatGPT API Key（官方）
+###  获取ChatGPT API Key
 - 打开 [openAI 官网](https://platform.openai.com/)并登录。
 - 点击右上角的个人中心，之后在弹出的框中点击 View API keys 。
 - 在跳转的页面中，点选 Create new secret key ，新建一个key 。
 - 在弹出的创建框中填写一个名字，方便备注，然后点击 Create secret key 创建。
 - 之后出现的一串字符就是API key了，点选旁边的绿色按钮即可复制调用。
-参看[如何申请调用ChatGPT API 以及key秘钥获取方法](https://zhuanlan.zhihu.com/p/651877443)。
+参看[如何申请调用ChatGPT API 以及key秘钥获取方法](https://zhuanlan.zhihu.com/p/651877443)以及[OpenAI API keys 的申请和测试小结 ](https://www.cnblogs.com/klchang/p/17352911.html)
 
 [Open ChatGPT API Key 有效性检测](http://tools.lbbit.top/check_key_valid/)
 
