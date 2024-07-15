@@ -47,7 +47,7 @@ PDF猫在线转换器，数百种在线文件转换工具，简单易用，完�
 
 ### 二、PDF单项处理
 
-23.仿扫描 [Look Scanned](https://lookscanned.io/scan)
+23. 仿扫描 [Look Scanned](https://lookscanned.io/scan)
 Look Scanned是一个可以将PDF文件处理成扫描件样式的工具。这个工具允许用户将现有的PDF文件转换成具有扫描效果的文档，模拟出纸张扫描的外观和感觉。这对于那些需要模拟真实扫描效果或者想要给PDF文档添加一些复古风格的用户来说是非常有用的。
 24. 去除密码限制 [freemypdf](http://freemypdf.com/)
 此网站可以删除 PDF 中的密码和限制（例如打印、复制文本等）。适用于无需任何第三方插件即可打开和阅读的 PDF。此服务无法解锁需要密码才能查看的PDF。
