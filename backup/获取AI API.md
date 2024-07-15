@@ -21,4 +21,6 @@
 - 点击令牌，添加新的令牌，输入名称，设置期限、额度，点击提交。
 - 提交成功之后，返回上级页面，令牌下可以复制 API Key 调用。
 
+[Open ChatGPT API Key 有效性检测](http://tools.lbbit.top/check_key_valid/)
+
 参看[ChatGPT 使用教程以及免费接口(支持OpenAI所有模型)](https://t66y.com/htm_data/2403/7/6229592.html)。
