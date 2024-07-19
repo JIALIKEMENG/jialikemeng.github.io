@@ -44,22 +44,24 @@ Office全能在线转，含PDF转换功能。
 可转PDF为文档或图片，限1G。**支持OCR识别**。
 22. [PDF猫](https://www.pdfmao.com/)
 PDF猫在线转换器，数百种在线文件转换工具，简单易用，完全免费。
+23. [PdfConverter](https://www.freepdfconvert.com/zh-cn)
+轻松转换为PDF及反向转换，以及PDF压缩，保护，解密，合并，拆分，页面删除，修复等。
 
 ### 二、PDF单项处理
 
-23. 仿扫描 [Look Scanned](https://lookscanned.io/scan)
+1. 仿扫描 [Look Scanned](https://lookscanned.io/scan)
 Look Scanned是一个可以将PDF文件处理成扫描件样式的工具。这个工具允许用户将现有的PDF文件转换成具有扫描效果的文档，模拟出纸张扫描的外观和感觉。这对于那些需要模拟真实扫描效果或者想要给PDF文档添加一些复古风格的用户来说是非常有用的。
-24. 去除密码限制 [freemypdf](http://freemypdf.com/)
+2. 去除密码限制 [freemypdf](http://freemypdf.com/)
 此网站可以删除 PDF 中的密码和限制（例如打印、复制文本等）。适用于无需任何第三方插件即可打开和阅读的 PDF。此服务无法解锁需要密码才能查看的PDF。
-25. PDF编辑 [福昕PDF编辑器网页版](https://online.foxitsoftware.cn/)
+3. PDF编辑 [福昕PDF编辑器网页版](https://online.foxitsoftware.cn/)
 可在线编辑PDF中的文本和图像，进行PDF创建、转换、页面管理。
-26. PDF转HTML [PDF to HTML](https://translatewebpages.org/)
+4. PDF转HTML [PDF to HTML](https://translatewebpages.org/)
 轻松将 PDF 转换为 HTML。
-27. 网页转PDF [HTML2PDF](https://www.ilovepdf.com/zh-cn/html-to-pdf)
+5. 网页转PDF [HTML2PDF](https://www.ilovepdf.com/zh-cn/html-to-pdf)
 只需一个网址，就可将网页转换至PDF文件，并保持高准确率。
-28. 网页转PDF[PrintFriendly](https://www.printfriendly.com/)
+6. 网页转PDF[PrintFriendly](https://www.printfriendly.com/)
 将文档或者网页转换为PDF。可清除网页上广告、导航等来实现完美的打印体验。支持网页直接输入链接同时也有Chrome插件。
-29. 在线OCR[OnlineOcr](https://www.onlineocr.net/zh_hans/)
+7. 在线OCR[OnlineOcr](https://www.onlineocr.net/zh_hans/)
 带有在线 OCR 的图像到文本转换器。允许您使用光学字符识别软件从图像中提取文本或将 PDF 转换为 Doc、Excel 或文本格式。限15 MB。
-30. 超级OCR[ SuperToolsOCR](https://ocr.wdku.net/)
+8. 超级OCR[ SuperToolsOCR](https://ocr.wdku.net/)
 在线文字识别转换（通用OCR）。免费的文字在线识别工具，通过图片识别文字，可保留原始格式，提供图像文字识别，提取图片文字，pdf文字识别，扫描文件识别服务、pdf转Word文档服务等。支持中文、繁体中文、日语、韩语、英语、法语、俄语、德语等多种语言，输出结果支持PDF、Word和Txt格式。可批量，同时最大999份。
