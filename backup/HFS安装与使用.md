@@ -1,7 +1,7 @@
 HFS是Http File Server的缩写，是使用HTTP协议提供局域网文件下载和上传服务的传输软件。类似局域网网盘，只要连在一个路由器上就可以访问，非常适合个人用户和家里使用。
 
 **软件下载与安装：**
-- 在[HFS官网](http://rejetto.com/)下载并安装最新版本的HFS软件。
+- [HFS官网](http://rejetto.com/)进入[项目发布页](https://github.com/rejetto/hfs/releases)下载并安装最新版本的HFS软件。
 - 第一次打开，软件会询问是否添加右键快捷菜单“Add to HFS”，添加后可以直接使用右键快速分享文件。
 - 启动HFS，左侧为文件区，右侧为日志，下方是用户下载监控。
 
