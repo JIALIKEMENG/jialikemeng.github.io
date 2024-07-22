@@ -35,3 +35,4 @@ HFS是Http File Server的缩写，是使用HTTP协议提供局域网文件下载
 
 参看：
 [HFS - 超好用的本地文件分享利器，快速从电脑传文件到手机等设备](https://zhuanlan.zhihu.com/p/50220212)
+[Turn Your Windows PC into a File-sharing Web Server](https://www.youtube.com/watch?v=j_6IGpaB8lQ)
