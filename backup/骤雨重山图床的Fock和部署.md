@@ -1,4 +1,4 @@
-[骤雨重山图床](https://github.com/uxiaohan/ZYCS-IMG)是利用Cloudflare Pages部署的稳定的无限Telegraph图床【[示例]】(https://37img.pages.dev/)，实现图片上传和访问，并进一步通过WordPress的WP.COM全球图片缓存进行加速，提高图片加载速度。可用于免费图片托管解决方案，是Flickr/imgur 等替代品。
+[骤雨重山图床](https://github.com/uxiaohan/ZYCS-IMG)是利用Cloudflare Pages部署的稳定的无限Telegraph图床【[示例](https://37img.pages.dev/)】，实现图片上传和访问，并进一步通过WordPress的WP.COM全球图片缓存进行加速，提高图片加载速度。可用于免费图片托管解决方案，是Flickr/imgur 等替代品。
 
 **简介**
 - [Cloudflare Pages](https://pages.cloudflare.com/) 是一个强大的静态网站托管服务，结合了 Cloudflare 的全球 CDN（内容分发网络）优势。
