@@ -62,4 +62,80 @@ https://www.icloud.com/shortcuts/43c21fab9a9f4b5c966ab6458661d33a
 开启《捷径》App ，点选刚刚下载好的捷径图示，选择想要加上浮水印的【照片来源】，选项有「拍照」及「从照片中选取」（若是透过《照片》进入捷径，或是从Widget 执行捷径，可能都会出现错误，请特别注意！）。可视需求【选取一张或多张照片】，选完后按下右上角的【加入】。
 在跳出的【iPhone 型号及颜色（白色/黑色）】选单中点选要的项目（选单可上下滑动），型号从iPhone 6s 到最新的 iPhone 12 Pro Max 任君挑选！还有iPhone 2G 可以选喔。
 
+_**以上快捷指令请参看 APPLE FANS 蘋果迷 的 [捷徑 Shortcuts](https://applefans.today/category/applefans-classroom/apple-shortcuts/).**_
 
+**12. iPhone喇叭清灰排水**
+https://www.icloud.com/shortcuts/73986095c8fa4ad4a22e93a90cd490b0
+通过一段特定频率的震动音乐，帮助你清理iPhone中的灰尘和积水。
+
+**13. iPhone相机水印**
+https://www.icloud.com/shortcuts/1abe91bcb8724ec3bfe19f5bb4860227
+快速批量给照片添加苹果水印，目前拥有iPhone15～iPhone4之间的所有机型，支持中英文，支持黑白双色，支持居中或自定义水印的位置。
+
+**14. 徕卡水印**
+https://www.icloud.com/shortcuts/c4fbd237b37d449e8c6a2df128a37162
+自动在照片底部添加莱卡水印、光圈、iSO感光度、东经北纬、手机型号、日期等参数。
+
+**15. 长图拼接**
+https://www.icloud.com/shortcuts/3f370c58145e4ee8a805290e373cf6f4
+可将多张图片垂直/水平拼接成单张长图，支持纵向拼接/横向拼接。
+
+**16. 二维码生成器**
+https://www.icloud.com/shortcuts/ff6220cd13214c3b8ffa95143e2296b8
+将输入的内容一键生成二维码，支持文字、数字、字母、网址等。
+
+**17. 九宫格切图**
+https://www.icloud.com/shortcuts/cf43475ce8484f7597c270280ccd7348
+可以将图片进行九等分，切割之前可选择喜欢的风格，正方形或圆角矩形，发朋友圈必备捷径。
+
+**18. 从视频提取音频**
+https://www.icloud.com/shortcuts/d3210c210d9146d982e122fc533a39b1
+提取视频中的音频，可保存为mp3格式，音频可保存至苹果自带的文件App中
+
+**19. 听歌识曲**
+https://www.icloud.com/shortcuts/c1fd5f9d7b0749bd8131c7116bc3dda2
+快速听歌识曲，识别到歌曲后可一键将歌名拷贝至剪贴板；识别源包括：SHAZAM、网易云音乐（需安装App）、QQ音乐（需安装App）、Midomi（网页在线识曲）
+
+**20. 定位开关**
+https://www.icloud.com/shortcuts/c9b1a80cff1746be8f7517d6e762202c
+一键跳转到设置中的定位开关页面
+
+**21. 一键录音**
+https://www.icloud.com/shortcuts/19b3067902d74c1f98219461ed62fc16
+一键录制音频，录制完成后可保存在iCloud或我的iPhone中，音频文件可在苹果内置的『文件App』中找到。
+
+**22. 早上好**
+https://www.icloud.com/shortcuts/e54a2dacdc7a43fcaa9c4e2850f82ee1
+运行后自动播报当前日期以及节日（距离节日还有几天），提醒当前手机电量，播报当前地区温度、最高温度、最低温度和降水概率。
+
+**23. 分享当前Wi-Fi**
+https://www.icloud.com/shortcuts/1fdb67023f5f47b39de25d5bd68835fc
+他人可通过你生成的二维码扫码连接Wi-Fi，无需再输入密码，仅支持iPhone、iPad等苹果设备。密码将保存在你的iCloud云盘中，不必担心泄漏，而且也没啥用。
+
+**24. 快捷扫码支付**
+https://www.icloud.com/shortcuts/6db753b2e98f4a9ab86e4ea452dd5524
+聚合了微信扫一扫、支付宝扫一扫、支付宝乘车码、支付宝付款码、支付宝收款码，五合一。并且给对应功能配上了图标，配合桌面组件或负一屏体验更完美。
+
+**25 出行助手**
+https://www.icloud.com/shortcuts/0e4baca691944bb7b414eefbc7a21f0f
+出门必备效率助手，我自己最常用的一个捷径，聚合了微信扫一扫、支付宝扫一扫/付款码/乘车码/收款码/健康码、高德地图、滴滴打车小程序版、车来了实时公交、快捷控制中心，支持自定义。
+
+**26 电视直播**
+内置了央视频道18个；卫视频道5个；央视片库包含电视剧、动画片、纪录片、特别节目全部免费看；还有央视听音，均导向官网，有 Safari 悬浮播放教程。
+
+**27. 证件照制作**
+https://www.icloud.com/shortcuts/9139185da3694b6bba65f0813c4cbf73
+通过iOS16及以上系统内置的抠图功能，实现证件照制作；支持超清证件照、标准一寸照、二寸照、小一寸照、小二寸照、大一寸照，有红、白、蓝三种背景色。
+
+_**以上快捷指令请参看 [柯基捷径库 - 苹果iOS快捷指令中心](https://www.kejicut.com/).**_
+
+**28. 苹果水印**
+https://www.icloud.com/shortcuts/90ca33dcf47a486aaae0b6604b56635e
+可自定义的的一款苹果手机水印指令，非常好。
+
+**29. 创意九宫格**
+https://www.icloud.com/shortcuts/465cfe7edfb146b6a276c572e49a3621
+比17. 九宫格切图自选格式多了两种选择。
+
+**其他指令**
+除过上面数种，还有OCR文字识别、朗读文章正文、将文本转换为音频、日程倒数、翻译文本、将文章剪贴到备忘录、清除剪贴板内容、截图加壳14、3D抠图、生成三联图、PDF工具集、文库免费预览打印、语音速记、证件照换背景、电影大全、抖音全类型下载、自定义时间水印、照片双重曝光、一键美白、你好GPT、R↓Download等快捷方式在使用中。
