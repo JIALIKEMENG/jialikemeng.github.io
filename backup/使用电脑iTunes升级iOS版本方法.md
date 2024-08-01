@@ -13,7 +13,6 @@ WIndows系统先安装最新版iTunes（[官方](https://www.apple.com/tw/itunes
 ### iOS 升级前「资料备份」
 重要提醒：要升级时，为了避免升级后有异常等事发生建议先「备份」资料。
 
-
 而备份分为两种方法，可透过电脑iTunes备份或云端iCloud备份，比较建议是直接透过电脑iTunes备份安全些，且回复时间也比较快，由于云端iCloud备份免费只有5GB大小，光是照片就会”塞爆”iCloud空间，又加上网路速度也是一大因素问题，建议是直接透过电脑备份会比较快些。
 
 **资料备份：电脑iTunes备份(推荐)**
@@ -28,10 +27,12 @@ WIndows系统先安装最新版iTunes（[官方](https://www.apple.com/tw/itunes
 
 备份会依照资料多寡而备份时间有所差别，初学者一定会认为就这样就可以备份完成了？当然！这就是iTunes的厉害地方，备份会将所有iPhone/iPad设备内所有资料都进行备份到电脑中，除了盗版APP、越狱状态与插件资料外，其余像是APP、通讯录、照片、音乐等都会一并备份。
 
+资料备份参看[【教学】如何使用iTunes备份资料和回复iPhone资料技巧，iOS用户必学](https://mrmad.com.tw/itunes-backup-and-reply).
+
 ### 使用iTunes升级iOS系统版本教学
 预设iTunes都会直接升级至最新iOS正式版本，除非你想要越狱，通常都会有一种现象就是最新iOS版本无法越狱，但前个iOS版本旧版还尚未关闭认证，还可以手动透过iPSW档来升级至该版本上，至于OTA有没有办法这样让我们选择，当然是不可能，苹果已经将iOS内建的OTA升级流程就是会显示最新iOS版本升级。
 
-因此这部分教学共分成了两个部分，直接iTunes升级iOS与手动OTA升级iOS两种，依照自己的需求点选观看底下的[教学视频](https://youtu.be/yx-qFS4bI-Y?si=GeNg0183KnuW_Qy2)。如有越狱用户如在升级过程中卡太久没动静，就建议改用回复iPhone方式整个iOS重刷，记得先备份好资料。
+因此这部分教学共分成了两个部分，直接iTunes升级iOS与手动OTA升级iOS两种，依照自己的需求点选观看底下的[教学视频](https://youtu.be/yx-qFS4bI-Y?si=GeNg0183KnuW_Qy2)。如有越狱用户如在升级过程中卡太久没动静，就建议改用回复iPhone方式整个iOS重刷【参看[教你将iOS 10.2.1降回iOS 10.2与关闭升级提醒技巧](https://mrmad.com.tw/ios121-downgrade-ios102)】，记得先备份好资料。
 
 ### 如何用iTunes  「自动」更新 iOS 系统方法
 步骤 1
