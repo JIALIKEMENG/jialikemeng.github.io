@@ -62,3 +62,4 @@ WIndows系统先安装最新版iTunes（[官方](https://www.apple.com/tw/itunes
 ▼ iOS升级就已经完成，且资料都还会存在，如发现升级后有功能上异常，通常还可透过iTunes重刷和回复资料。
 
 转自疯先生[iPhone升级技巧必学！如何使用电脑iTunes升级iOS版本？](https://mrmad.com.tw/itunes-update-ios)
+备用资料[iPhone / iPad 从备份、升级、DFU重刷到回复攻略教学}(https://mrmad.com.tw/teachingiphone-ipad-ios-will-upgrade-from-backup-raiders-dfu-repainted-to-reply).
