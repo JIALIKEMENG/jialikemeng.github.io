@@ -136,6 +136,7 @@ https://www.icloud.com/shortcuts/90ca33dcf47a486aaae0b6604b56635e
 
 **29. 苹果水印**
 https://www.icloud.com/shortcuts/8d1edba1f4dd4ef881f0e10d74f75429
+正常苹果水印，同28，无经纬度多项选择，但可以自行修改。
 
 **30. 15pro水印**
 功能类似28. 苹果水印，不同处是机型默认显示15pro水印，但可以修改为自定义机型或文字。
@@ -151,6 +152,10 @@ https://www.icloud.com/shortcuts/5680e17481d549b9b67b3a1b0a6b1e87
 **33. 大字报 - 手机告示牌**
 https://www.icloud.com/shortcuts/bff77b623d5d480a94b72d795f92f079
 有时候不方便说话，或者大喊别人也听不见……比如：表白、接机、求救、搭车、警告等场景……理论上聋哑人士也可以用。功能简介：多种预设和自定义快捷用语；自适应超大字号全屏展示；多种背景色可选，包括闪烁背景。
+
+**34. R⤓Download**
+https://www.icloud.com/shortcuts/3537bd1fd678433a8885165fb9b41793
+多功能下载，从任何地方下载照片、视频和音频，支持YouTube、Facebook、Tumblr、Snapshat、Instagram、Twitter、TikTok等多个平台。参看[介绍](https://shareshortcuts.com/shortcuts/996-r-download.html).
 
 **其他指令**
 除过上面数种，还有OCR文字识别、朗读文章正文、将文本转换为音频、日程倒数、翻译文本、将文章剪贴到备忘录、清除剪贴板内容、截图加壳14、3D抠图、生成三联图、PDF工具集、文库免费预览打印、语音速记、证件照换背景、电影大全、抖音全类型下载、自定义时间水印、照片双重曝光、一键美白、你好GPT、R↓Download等快捷方式在使用中。
