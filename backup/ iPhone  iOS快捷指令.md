@@ -158,4 +158,22 @@ https://www.icloud.com/shortcuts/3537bd1fd678433a8885165fb9b41793
 多功能下载，从任何地方下载照片、视频和音频，支持YouTube、Facebook、Tumblr、Snapshat、Instagram、Twitter、TikTok等多个平台。参看[介绍](https://shareshortcuts.com/shortcuts/996-r-download.html).
 
 **其他指令**
-除过上面数种，还有OCR文字识别、朗读文章正文、将文本转换为音频、日程倒数、翻译文本、将文章剪贴到备忘录、清除剪贴板内容、截图加壳14、3D抠图、生成三联图、PDF工具集、文库免费预览打印、语音速记、证件照换背景、电影大全、抖音全类型下载、自定义时间水印、照片双重曝光、一键美白、你好GPT、R↓Download等快捷方式在使用中。
+OCR文字识别
+朗读文章正文
+将文本转换为音频
+日程倒数
+翻译文本
+将文章剪贴到备忘录
+清除剪贴板内容
+截图加壳14
+https://www.icloud.com/shortcuts/1b1a48f13a8e4aa9a08b567020876238
+3D抠图
+生成三联图
+PDF工具集
+文库免费预览打印
+语音速记
+证件照换背景
+电影大全、抖音全类型下载、自定义时间水印、照片双重曝光
+一键美白
+https://www.icloud.com/shortcuts/57343527f45e497c8a9c498cccfb31ba
+你好GPT
