@@ -20,8 +20,6 @@ https://t.me/TGeBook
 https://t.me/ebookcool
 电子书/听书/期刊/课程资源
 https://t.me/sharebooks4you
-方舟图书馆【N】
-https://t.me/libraryforalls
 书摘，随想
 t.me/digest_booksthoughts
 Telegram数字图书馆
@@ -30,3 +28,19 @@ PDF图书联盟|电子书|ebook
 https://t.me/PDFtushuguan
 电子书|有声书|杂志|PDF资料
 https://t.me/EbookPDF_Library
+zread (推) - 什么书值得读【已停更】
+https://t.me/zreadpush
+文杏馆（藏书分享）
+https://t.me/BooksThatMakeYouThink
+PDF资料
+https://t.me/pdf_001
+电子书【诚通网盘分享】
+https://t.me/dianzhishu
+台湾 大陆 教科书 教材 电子版分享
+https://t.me/Taiwan_Textbook
+玄学之巅
+https://t.me/xuanxue88624
+开心书库/小说/网文群【N】
+https://t.me/happylibrary
+方舟图书馆【N】
+https://t.me/libraryforalls
