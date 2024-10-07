@@ -157,23 +157,63 @@ https://www.icloud.com/shortcuts/bff77b623d5d480a94b72d795f92f079
 https://www.icloud.com/shortcuts/3537bd1fd678433a8885165fb9b41793
 多功能下载，从任何地方下载照片、视频和音频，支持YouTube、Facebook、Tumblr、Snapshat、Instagram、Twitter、TikTok等多个平台。参看[介绍](https://shareshortcuts.com/shortcuts/996-r-download.html).
 
+**35. 全能影片下载器（适用 iOS 18）**
+https://www.icloud.com/shortcuts/724a6421936443a5a8c7845808aae38b
+2024最新可用的下载捷径（2024/08/19更新），可以下载 YouTube、Instagram、Facebook、TikTok、X（Twitter）及其他多个社群影音平台的图片影片。由外国网友制作，APPLEFANS 分享。
+
+**36. 打包发送**
+https://www.icloud.com/shortcuts/60ca5a1c523a4783b69d00da3edf91e1
+在相册多选照片（也支持文件）后，分享卡片选择“打包发送”，即可自动生成zip压缩包，点击分享按钮，即可选择微信/QQ等发送。
+
+**37. 压缩照片发送**
+同36打包发送。测试打包发送保留照片相机和时间信息，而压缩照片发送会删除照片拍摄信息。二者文件都有不同程度的压缩。
+
 **其他指令**
+寻找iPhone
+https://www.icloud.com/shortcuts/b3aa21991e4f408b9ed5fa4b0b2e9744
 OCR文字识别
+https://www.icloud.com/shortcuts/d1279e3a7e1a44f39a8bd3de44416aa4
+拍照/图片/PDF转文字自动存
+https://www.icloud.com/shortcuts/f9eb200650f749a8b05902937be3c354
+拍照/图片/PDF转文字翻译自动存
+https://www.icloud.com/shortcuts/f225e96ab752498590b7209e5e3651c0
 朗读文章正文
-将文本转换为音频
+https://www.icloud.com/shortcuts/a502f3c23a834ec3b33e92cb7eb0a538
+输入文本转为音频
+https://www.icloud.com/shortcuts/f46232c8a0c54ca2b8da92538ff9a4a6
 日程倒数
+https://www.icloud.com/shortcuts/8b4f3868f98d40e89d3d3cbae9722df3
 翻译文本
+https://www.icloud.com/shortcuts/014d98a70d714f6f9edb6a53f9b6c96d
 将文章剪贴到备忘录
+https://www.icloud.com/shortcuts/31a0531256594e608ee412510d38f61b
 清除剪贴板内容
+https://www.icloud.com/shortcuts/f6b78495baa3401e8b0b233f43e153b9
 截图加壳14
 https://www.icloud.com/shortcuts/1b1a48f13a8e4aa9a08b567020876238
 3D抠图
+https://www.icloud.com/shortcuts/5b7473a83b0947b590c3336d97d38ad3
 生成三联图
+https://www.icloud.com/shortcuts/b5d069d695bf42798fdb3134e63c0433
+多图拼接
+https://www.icloud.com/shortcuts/5aebeb96a52d4c458f48bfc5634c58ea
 PDF工具集
+https://www.icloud.com/shortcuts/724f9dbb332742dcac0e5ce789e3b95f
 文库免费预览打印
+https://www.icloud.com/shortcuts/64fe8a9ef1a2497fa595b5784dd5e352
 语音速记
+https://www.icloud.com/shortcuts/9d3f9f37ff354a45a798b317279e227f
 证件照换背景
-电影大全、抖音全类型下载、自定义时间水印、照片双重曝光
+https://www.icloud.com/shortcuts/4cec08b6b924481587fcb76e02a499df
+电影大全
+https://www.icloud.com/shortcuts/983ddea65e294af7b68e97437dfc7e4a
+抖音全类型下载
+https://www.icloud.com/shortcuts/4cf76e04fd004aed9bafc0f1cec38e12
+自定义时间水印
+https://www.icloud.com/shortcuts/879fd76a31f3461792ac15d6677f34a4
+照片双重曝光
+https://www.icloud.com/shortcuts/2c68761868304268ad98feffd8d613aa
 一键美白
 https://www.icloud.com/shortcuts/57343527f45e497c8a9c498cccfb31ba
 你好GPT
+https://www.icloud.com/shortcuts/d0f0d28fd59a4b64a99f6a9c42ee4071
