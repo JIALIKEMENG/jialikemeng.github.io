@@ -2,7 +2,7 @@
 
 **简介**
 - [Cloudflare Pages](https://pages.cloudflare.com/) 是一个强大的静态网站托管服务，结合了 Cloudflare 的全球 CDN（内容分发网络）优势。
-- [Telegraph](https://telegra.ph/) 是一个简单而有效的匿名发布平台，可以用于快速上传和管理内容，特别是图片。
+- [Imgur](https://imgur.com/) 是一个免费优质的图床。
 - [WordPress 的全球图片缓存](https://01.wp.com/) 是一个高效的 CDN 服务，专门用于加速 WordPress 托管的图片内容。它利用全球分布的节点，将图片缓存并提供快速访问。
 - [Cloudflare CDN（内容分发网络）](https://www.cloudflare.com/zh-cn/application-services/products/cdn/)是由Cloudflare提供的服务，旨在加速和保护和加速全球网络应用程序。
 
@@ -14,7 +14,7 @@
 - 只需要修改框架预设为Vue即可，点击保存并部署，即可部署成功并投入使用
 
 特点
-- 无限图片储存数量，你可以上传不限数量的图片到Telegraph
+- 无限图片储存数量，你可以上传不限数量的图片到Imgur
 - 无需购买服务器，托管于Cloudflare Pages上，每天10万次的请求
 - 无需购买域名，可以使用Cloudflare Pages 提供的*.pages.dev的免费二级域名，同时也支持绑定自定义域名
 - 目前似乎无后台管理功能
