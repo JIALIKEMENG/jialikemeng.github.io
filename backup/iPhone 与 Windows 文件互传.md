@@ -12,13 +12,16 @@
 无损传输，不限大小、格式，支持文件夹。局域网内共享文件、文本等内容，也可以跨网络共享。还可作为轻量级的远程控制工具，进行网页版屏幕共享等。
 
 ## 二、工具互传
-### 1. LanDrop 软件 APP 互传
+### 1. LanDrop 软件互传
 [LanDrop](https://landrop.app/) 支持 Windows、macOS、Linux、Android 和 iOS 全平台文件传输，免费无广告，传输速度快，端到端加密，确保你的文件安全无误。只要在两个设备上打开软件【[下载地址](https://landrop.app/#downloads)】，选择要传输的文件（支持多个文件），找到接收文件的设备，分别进行发送和接收即可大功告成。
 
-### 2. LocalSend 软件 APP 互传
+### 2. LocalSend 软件互传
 [LocalSend](https://localsend.org/zh-CN) 是一款免费、开源、跨平台（支持 Windows、macOS、Linux，以及 iOS、Android）的局域网文件互传工具【[下载地址](https://localsend.org/zh-CN/download)】，无需互联网，无需外部服务器，即开即用，支持多个文件。
 
-### 3. 快捷指令打包发送传输
+### 3. 闪电藤软件互传
+[闪电藤](https://lightningvine.zishu.life/)是基于LocalSend的二次开发产品，在原有局域网文件传输基础上，增加了webdav传输和云传输的能力，是一个万能的文件传输助手。目前已支持了安卓、iOS、Mac、Windows和Linux，后续将会支持鸿蒙和web，web版后续的计划是能让大家通过一个固定url就可以传文件，这样不用安装闪电藤即可创文件。
+
+### 4. 快捷指令打包发送传输
 安装快捷指令[打包发送](https://www.icloud.com/shortcuts/60ca5a1c523a4783b69d00da3edf91e1)后，在相册多选照片（也支持文件）后，分享卡片选择“打包发送”，即可自动生成zip压缩包，点击分享按钮，即可选择微信/QQ等发送。
 
 另参看[手机与电脑局域网文件传输](https://jialikemeng.github.io/post/shou-ji-yu-dian-nao-ju-yu-wang-wen-jian-chuan-shu.html)一文。
